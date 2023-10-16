@@ -13,7 +13,7 @@
 
       button: 
         disable: 3
-        enable: 1
+        enable: 2
         indicate_operation: 7
         indicate_parking: 6
         indicate_turn_left: 4
